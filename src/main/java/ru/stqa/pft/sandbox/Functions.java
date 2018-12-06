@@ -1,3 +1,5 @@
+package ru.stqa.pft.sandbox;
+
 import javax.sound.midi.Soundbank;
 import java.sql.SQLOutput;
 

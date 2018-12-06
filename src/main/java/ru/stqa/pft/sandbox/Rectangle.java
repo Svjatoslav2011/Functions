@@ -1,3 +1,5 @@
+package ru.stqa.pft.sandbox;
+
 public class Rectangle {
   public double c;
   public double d;
